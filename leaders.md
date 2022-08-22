@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Asheesh Tiwari ](mailto:asheesh.tiwari@owasp.org)
+* [Chirag Singla](mailto:chirag.singla@owasp.org)
+* [Lucky Thandel](mailto:lucky.thandel@owasp.org)

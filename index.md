@@ -7,7 +7,7 @@ region: Asia
 meetup-group:
 
 ---
-
+![GLA University Mathura](/assets/images/1656412154579.jfif)
 ## Welcome
 Welcome to the OWASP Student Chapter of GLA University, Mathura. The Chapter was established in 2022 with the intention of promoting knowledge in the field of cybersecurity. 
 

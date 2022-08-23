@@ -10,6 +10,5 @@ tags: example-tag
 
 |Roles   | Responsibilities  | Person(s)|   
 |--------|-------------------|----------|
-| Chapter Leaders       |             | LuckyThandel chirag singhla |
-| Faculty Advisor|          |        Asheesh Tiwari|
-|              |             |          |
+| Faculty Advisor|          |        Asheesh Tiwari
+| Chapter Leaders       |             | LuckyThandel, Chirag Singla |

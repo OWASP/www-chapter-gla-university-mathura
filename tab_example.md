@@ -1,5 +1,5 @@
 ---
-title: Blogs/Posts
+title: Blogs
 layout:  null
 tab: true
 order: 1

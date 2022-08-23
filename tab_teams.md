@@ -8,4 +8,8 @@ tags: example-tag
 
 ## Teams
 
-KINGPING # DEMO1234
+|Roles   | Responsibilities  | Person(s)|   
+|--------|-------------------|----------|
+| Mentor       |             | asheesh tiwari |
+| Technician Head|          |        LuckyThandel|
+|              |             |          |

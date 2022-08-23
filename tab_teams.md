@@ -10,6 +10,6 @@ tags: example-tag
 
 |Roles   | Responsibilities  | Person(s)|   
 |--------|-------------------|----------|
-| Mentor       |             | asheesh tiwari |
-| Technician Head|          |        LuckyThandel|
+| Chapter Leaders       |             | LuckyThandel chirag singhla |
+| Faculty Advisor|          |        Asheesh Tiwari|
 |              |             |          |

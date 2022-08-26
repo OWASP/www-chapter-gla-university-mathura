@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP GLA University Mathura
 tags: example-tag
 region: Asia
-meetup-group:
+meetup-group: owasp-gla-university-mathura-student-chapter
 
 ---
 ![GLA University Mathura](/assets/images/Owasp_GLA_University_Banner.png)
@@ -20,4 +20,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+
+owasp-gla-university-mathura-student-chapter meetings are posted on our meetup!  [Meetup Group](https://www.meetup.com/owasp-gla-university-mathura-student-chapter/)
 {% include chapter_events.html group=page.meetup-group %}
+
+## Presentations and Professional Speakings
+
+If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Asheesh Tiwari](mailto://asheesh.tiwari@owasp.org), [Chirag Singla](mailto://Chirag.singla@owasp.org) & [Lucky Thandel](mailto://lucky.thandel@owasp.org)

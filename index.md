@@ -18,7 +18,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 * Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters).
 
-Everyone is welcome and encouraged to participate in our **Projects, Events and Activities**. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert.
+Everyone is welcome and encouraged to participate in our **Projects, Meetings and Activities**. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert.
 
 
 
@@ -34,4 +34,4 @@ owasp-gla-university-mathura-student-chapter meetings are posted on our meetup! 
 
 ## Presentations and Professional Speakings
 
-If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Asheesh Tiwari](mailto://asheesh.tiwari@owasp.org), [Chirag Singla](mailto://Chirag.singla@owasp.org) & [Lucky Thandel](mailto://lucky.thandel@owasp.org)
+If you like to speak on our upcoming meetings, kindly email us [Asheesh Tiwari](mailto://asheesh.tiwari@owasp.org), [Chirag Singla](mailto://Chirag.singla@owasp.org) & [Lucky Thandel](mailto://lucky.thandel@owasp.org)

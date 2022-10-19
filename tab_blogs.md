@@ -11,12 +11,18 @@ Blogs
 
 Read and gain knowledge of some of the most recent tools and technologies with GLA University's OWASP Chapter Blogs.
 
+Lucky Thandel
+
 * [Python Jail Escape, a-horse-with-no-names CTF challenge](https://technicalnavigator.in/python-jail-escape-a-horse-with-no-names-ctf-challenge/) 
 * [MouseServer , wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
 * [PHP extract() bug](https://technicalnavigator.in/php-extract-bug/)
 * [NES games In Linux , Fceux](https://technicalnavigator.in/nes-games-in-linux-fceux/)
 * [Classes-Objects & Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
 
--- By Lucky Thandel
+Karan Singh
+
+* [Kenobi Tryhackme Walkthrough](https://chirag-singla.notion.site/Kenobi-TryHackMe-29c2bfbfc29e49cc9aaba0e73f170901)
+
+
 
 For any Doubts regarding these topics you can contact [luckythandel](mailto://lucky.thandel@owasp.org)

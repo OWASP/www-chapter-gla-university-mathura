@@ -28,6 +28,10 @@ Jiyanshu Sharma
 
 * [Mr Robot Tryhackme Walkthrough](https://chirag-singla.notion.site/Mr-Robot-CTF-Try-Hack-Me-ee2ba103dbb446feb531b556d021bbde)
 
+Shagun Gupta
+
+* [Reverse Shell Basics](https://chirag-singla.notion.site/Reverse-Shell-c71f5d21ced04bf1972cf05cbf7dc594)
+
 
 
 For any Doubts regarding these topics you can contact [luckythandel](mailto://lucky.thandel@owasp.org)

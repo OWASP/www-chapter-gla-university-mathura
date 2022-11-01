@@ -32,6 +32,10 @@ Shagun Gupta
 
 * [Reverse Shell Basics](https://chirag-singla.notion.site/Reverse-Shell-c71f5d21ced04bf1972cf05cbf7dc594)
 
+Vivek Gujjar
+
+* [Social Engineering toolkit - Part 1](https://chirag-singla.notion.site/Social-Engineering-Toolkit-PART-1-5811ba83449443f3ac957cc693d18edc)
+
 
 
 For any Doubts regarding these topics you can contact [luckythandel](mailto://lucky.thandel@owasp.org)

@@ -8,7 +8,7 @@ tags: example-tag
 
 ## Teams
 
-|Roles   | Responsibilities  | Person(s)|   
-|--------|-------------------|----------|
-| Faculty Advisor|          |        Asheesh Tiwari
-| Chapter Leaders       |             | LuckyThandel, Chirag Singla |
+|Roles   | Person(s)|   
+|--------|----------|
+| Faculty Advisor|        Asheesh Tiwari
+| Chapter Leaders|        Lucky Thandel, Chirag Singla |

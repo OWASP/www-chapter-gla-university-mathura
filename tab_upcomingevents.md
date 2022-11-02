@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: UpcomingEvents
 layout:  col-sidebar
 tab: true
 order: 1

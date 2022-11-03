@@ -20,7 +20,7 @@ At GLA University, Mathura, We have taken the initiative to develop a **Strong c
 
 we are conducting a technical workshop "**YOU CAN HACK: A BUG HUNTER'S APPROACH**" on 5th November.
 
-Register for the event [here](https://bit.ly/3sO7MAT)
+Register for the event [here](https://forms.gle/BLXs9rVjwAZfBN1y6)
 
 This will be an interactive session with seniors where you can learn a lot about bug bounty
 

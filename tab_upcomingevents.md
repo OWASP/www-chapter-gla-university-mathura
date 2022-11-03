@@ -12,7 +12,7 @@ tags: example-tag
 ### You Can Hack: A Bug Hunter's Approach
 
 
-<img src="https://github.com/OWASP/www-chapter-gla-university-mathura/blob/main/Bugevent.png" width="300" height="400" />
+<img src="https://github.com/OWASP/www-chapter-gla-university-mathura/blob/main/assets/images/event%20.jpg" width="300" height="400" />
 
 Hello Learners
 

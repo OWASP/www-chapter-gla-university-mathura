@@ -1,0 +1,28 @@
+leaders:
+  - name: Asheesh Tiwari
+    email: asheesh.tiwari@owasp.org
+  - name: Chirag Singla
+    email: chirag.singla@owasp.org
+    github: Chirag1800
+  - name: Rahul Dixit
+    email: rahul.dixit@owasp.org
+  - name: Kushagra Varshney
+    email: kushagra.varshney@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Uttar Pradesh
+  city: Mathura
+  latitude: 27.6031057
+  longitude: 77.5957105
+meetup_group: owasp-gla-university-mathura-student-chapter
+name: OWASP GLA University Mathura
+repositories:
+  - name: www-chapter-gla-university-mathura
+    url: https://github.com/OWASP/www-chapter-gla-university-mathura
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-gla-university-mathura
